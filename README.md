@@ -51,6 +51,8 @@ Just click [HERE](https://github.com/Asecave?tab=repositories) to go to my repos
 - [Better Snake repository](https://github.com/Asecave/Better-Snake)
 
 ### Me
-[IMAGE](https://github.com/Asecave/Projects/blob/master/spider%20profilbild.png)
+
+
+
 I also have a Youtube channel:
 - [Asecave](https://www.youtube.com/channel/UCtkqkCLegB9ccwdDtQsZ36w)
