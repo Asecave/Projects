@@ -41,7 +41,7 @@ Asecave
 I think that really describes what I'm doing.
 
 ### Repositories
-Just click [HERE](https://github.com/Asecave?tab=repositories)to go to my repositorys or click on a released project repository:
+Just click [HERE](https://github.com/Asecave?tab=repositories) to go to my repositorys or click on a released project repository:
 - [More Dimensions repository](https://github.com/Asecave/More-Dimensions)
 - [Mandelbrot-plotter repository](https://github.com/Asecave/Mandelbrot-plotter)
 - [Password Lock repository](https://github.com/Asecave/password-Lock)
@@ -49,3 +49,8 @@ Just click [HERE](https://github.com/Asecave?tab=repositories)to go to my reposi
 - [Dot Engine repository](https://github.com/Asecave/Dot-engine)
 - [Star Treck TNG Animation repository](https://github.com/Asecave/Animation-ST-TNG)
 - [Better Snake repository](https://github.com/Asecave/Better-Snake)
+
+### Me
+[IMAGE](https://github.com/Asecave/Projects/blob/master/spider%20profilbild.png)
+I also have a Youtube channel:
+- [Asecave](https://www.youtube.com/channel/UCtkqkCLegB9ccwdDtQsZ36w)
