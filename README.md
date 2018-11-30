@@ -7,6 +7,12 @@ So lets don't talk too much... Lets have fun!
 ### Projects
 Sorted from new to old
 
-[Better Snake](https://github.com/Asecave/Better-Snake/raw/master/Better%20Snake%201.0.jar)
+- [More Dimensions](https://github.com/Asecave/More-Dimensions/archive/master.zip)
+- [Mandelbrot-plotter](https://github.com/Asecave/Mandelbrot-plotter/archive/master.zip)
+- [Password Lock](https://github.com/Asecave/password-Lock/archive/master.zip)
+- [Nicht Nicht](https://github.com/Asecave/Nicht-Nicht/archive/master.zip)
+- [Dot Engine](https://github.com/Asecave/Dot-engine/archive/master.zip)
+- [Star Treck TNG Animation](https://github.com/Asecave/Animation-ST-TNG/archive/master.zip)
+- [Better Snake](https://github.com/Asecave/Better-Snake/archive/master.zip)
 
 ## Info
