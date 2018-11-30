@@ -52,7 +52,7 @@ Just click [HERE](https://github.com/Asecave?tab=repositories) to go to my repos
 
 ### Me
 
-![](images/Spider-Profilbild.png)
+![](images/spider-profilbild.png)
 
 I also have a Youtube channel:
 - [Asecave](https://www.youtube.com/channel/UCtkqkCLegB9ccwdDtQsZ36w)
