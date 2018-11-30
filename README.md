@@ -4,12 +4,9 @@ Here you can find all my Projects I worked on and released them. I really have f
 
 So lets don't talk too much... Lets have fun!
 
-```markdown
 ### Projects
 Sorted from new to old
 
 [Better Snake](https://github.com/Asecave/Better-Snake/raw/master/Better%20Snake%201.0.jar)
-
-```
 
 ## Info
