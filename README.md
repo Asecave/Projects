@@ -17,7 +17,7 @@ Sorted from new to old
 
 ## Projects info
 Some important readme:
-### Readme of Better Snake
+**Readme of Better Snake**
 ```markdown
 Things you should know about this game...
 I coded this game in Java. But my Java skills are not perfect because 
