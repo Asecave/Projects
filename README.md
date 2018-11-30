@@ -20,7 +20,6 @@ Some important readme:
 # Readme of Better Snake
 ```markdown
 Things you should know about this game...
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I coded this game in Java. But my Java skills are not perfect because 
 I'm only half done with the Java-book I'm reading curently.
 I made all the Graphics with 'Graphics2D' and don't (only when I code something with 
